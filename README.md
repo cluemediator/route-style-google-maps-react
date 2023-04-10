@@ -16,7 +16,7 @@ Follow the below steps to run the project.
 
 ## Output
 
-[![React Example](https://www.cluemediator.com/wp-content/uploads/2023/04/output-change-the-route-style-on-google-maps-in-react-clue-mediator.gif)](https://www.cluemediator.com/change-the-route-style-on-google-maps-in-react)
+[![React Example](https://www.cluemediator.com/wp-content/uploads/2023/04/output-change-the-route-style-on-google-maps-in-react-clue-mediator.png)](https://www.cluemediator.com/change-the-route-style-on-google-maps-in-react)
 
 **Follow us on [GitHub](https://github.com/cluemediator) for more update.**
 
